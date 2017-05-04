@@ -1,0 +1,26 @@
+Student Name :-chamod      Student Id :-2015300
+
+Level-04                Level-05                                  Level-06                                  
+Module 01:-78 PASS               Module 01:-80 PASS               Module 01:-80 PASS
+Module 02:-76 PASS               Module 02:-79 PASS               Module 02:-70 PASS
+Module 03:-21 RETAKE               Module 03:-76 PASS               Module 03:-65 PASS
+Module 04:-68 PASS               Module 04:-85 PASS               Module 04:-85 PASS
+Module 05:-70 PASS               Module 05:-83 PASS               Module 05:-78 PASS
+Module 06:-85 PASS               Module 06:-79 PASS               
+Re Module:-40 PASS               null null null
+Total
+Credits
+=
+360
+Total
+Average
+=
+79
+Class:-1st
+Class
+Honors
+Degree:-B.Sc.
+1st
+Class
+Honors
+DEGREE
